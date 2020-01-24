@@ -34,8 +34,12 @@ SSLエラーはどうしようもないです。
 ## 問い合わせ
 misskey@lei202.com
 
-基本このメールアドレスに問い合わせるのが一番確実です。
+基本下記Mastodonアカウントにリプライが手っ取り早いでしょう。
 
-[@eizi2002@misskey.m544.net](https://misskey.m544.net/@eizi2002)
+当インスタンス以外アカウントがない等の状況の場合は上記メールアドレスを使うといいでしょう。
 
-[@eizi2002@misskey.dev](https://misskey.dev/@eizi2002)
+どちらも、即座な返答や解決は保証できません。とくに平日の朝から夕方(要するに学校の時間)は確実に対応不能となります。
+
+[@eizi2002@best-friends.chat](https://best-friends.chat/@eizi2002)
+
+[@lei202@fedibird.com](https://fedibird.com/@lei202)
