@@ -38,11 +38,13 @@ Adminバッヂは@lei202と@iaの二名についておりますが、実際は@l
 ## 問い合わせ
 misskey@lei202.com
 
-基本下記Mastodonアカウントにリプライが手っ取り早いでしょう。
+基本下記Mastodonアカウントにリプライが手っ取り早いでしょう。(多分まとめてリプライした方がいいです。)
 
 当インスタンス以外アカウントがない等の状況の場合は上記メールアドレスを使うといいでしょう。
 
 ただしメール然り、どちらも即座な返答や解決は保証できません。特に就寝時や平日の朝から夕方(要するに学校の時間)は確実に対応不能となります。
+
+[@lei202@ethiopia.server-on.net](https://ethiopia.server-on.net/@lei202)
 
 [@eizi2002@best-friends.chat](https://best-friends.chat/@eizi2002)
 
